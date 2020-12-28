@@ -42935,7 +42935,7 @@ break
 case 5:return P.aa(null,r)
 case 1:return P.a9(p,r)}})
 return P.ab($async$kP,r)},
-K:function(a,b){var s=null,r=L.xG("Hello",s)
+K:function(a,b){var s=null,r=L.xG("\u5c3a\u5ea6\u7269\u6599\u7ba1\u7406\u7cfb\u7edf",s)
 return new S.nV(new M.oU(new E.my(r,C.k,new P.Z(1/0,56),s),T.EM(M.ka(C.nh,T.a2e(H.d([M.ka(s,D.Ye(L.xG("\u5b58\u5165",s),new F.QH(this)),s,s,s,66,new V.aQ(0,0,0,20),s,120),M.ka(s,D.Ye(L.xG("\u53d6\u51fa",s),new F.QI()),s,s,s,66,new V.aQ(0,0,0,20),s,120),M.ka(s,L.xG(this.d,s),s,s,s,s,new V.aQ(0,0,0,20),s,s)],t.fQ),C.oF,C.v3),s,s,s,s,new V.aQ(0,44,0,0),s,s),s,s),s),"Chidu",s)}}
 F.QJ.prototype={
 $0:function(){return this.a.d=this.b},
